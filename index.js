@@ -1,5 +1,5 @@
 const dbd = require('dbd.js');
-const token = process.env['token']
+const token = process.env['TOKEN']
 const keep_alive = require('./keep_alive.js');
 const bot = new dbd.Bot({
 	token: token,
