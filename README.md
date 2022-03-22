@@ -12,7 +12,8 @@
 ```
 https://github.com/RJRYT/RJRYT-OFFICIAL-BOT.git
 ```
-**2.** After fork goto `secret` and add secret key as `TOKEN` and put your bot's token./n
+**2.** After fork goto `secret` and add secret key as `TOKEN` and put your bot's token.
+
 **3.** Run the repl.
 
 # DEVELOPER CREDITS
@@ -22,9 +23,9 @@ This bot is developed by [TEAM CODROID](https://discord.com/invite/XcsZXk6uFF)
 # OWNERS
 
 **1** RJRYT
-\t[website](https://rjryt.tk/)\n
-\t[discord](https://discord.com/channels/@me/770988400047947796)\n
-\t[server](https://discord.gg/ZGsN5VMayx)\n
+[website](https://rjryt.tk/)
+[discord](https://discord.com/channels/@me/770988400047947796)
+[server](https://discord.gg/ZGsN5VMayx)
       
 **2** BO$$
 [website](https://cruzgaming.ml/)
