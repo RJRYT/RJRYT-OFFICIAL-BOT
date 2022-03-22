@@ -123,6 +123,7 @@ bot.command({
   $footer[Music Played:- $username]
   $addTimestamp
   $color[$random[0;999999]]
+  $onlyif[$voiceID!=;Please join a voice channel to play.]
   `
 }),
  
@@ -224,7 +225,7 @@ $footer[Announced by $username $addtimestamp]
 $image[https://media1.tenor.com/images/bf37e8dded18aaa840331bb87f99d3a9/tenor.gif]
 $deletecommand
 $color[RANDOM]
-$onlyPerms[admin;don't use this command <:8952_gg1:836842359114825729> ]`
+$onlyPerms[admin;Sorry You dont have permission to use this command.]`
 });
 
 bot.command({
@@ -238,7 +239,7 @@ bot.command({
   $footer[Announced By $userTag[$authorID];$authorAvatar $addTimestamp]
   $color[RANDOM]
   $deletecommand
-  $onlyPerms[admin;sheri enna, bye]`
+  $onlyPerms[admin;Sorry You dont have permission to use this command.]`
 }),
 
 bot.command({
