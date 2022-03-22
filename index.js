@@ -31,7 +31,7 @@ $elseIf[$ping<500]
 $title[:ping_pong: Ping!]
  $description[:orange_circle: \`$ping\` ms]
  $color[ORANGE]
- $addTimestamp
+ $addTimestamp 
 $endelseif
 $elseIf[$ping<1000]
 $title[:ping_pong: Ping!]
