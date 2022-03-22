@@ -12,7 +12,7 @@
 ```
 https://github.com/RJRYT/RJRYT-OFFICIAL-BOT.git
 ```
-**2.** After fork goto `secret` and add secret key as `TOKEN` and put your bot's token.\n
+**2.** After fork goto `secret` and add secret key as `TOKEN` and put your bot's token./n
 **3.** Run the repl.
 
 # DEVELOPER CREDITS
