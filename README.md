@@ -8,7 +8,7 @@
 
 # INSTALLATION (replit)
 
-**1.** Download the git or export the files to [replit](https://replit.com/repls). Copy the link give below
+**1.** Download the git or export the files to [replit](https://replit.com/repls). Copy the link given below
 ```
 https://github.com/RJRYT/RJRYT-OFFICIAL-BOT.git
 ```
@@ -22,14 +22,14 @@ This bot is developed by [TEAM CODROID](https://discord.com/invite/XcsZXk6uFF)
 
 # OWNERS
 
-**1** RJRYT
-[website](https://rjryt.tk/)
-[discord](https://discord.com/channels/@me/770988400047947796)
+**1 RJRYT**
+[website](https://rjryt.tk/), 
+[discord](https://discord.com/channels/@me/770988400047947796), 
 [server](https://discord.gg/ZGsN5VMayx)
       
-**2** BO$$
-[website](https://cruzgaming.ml/)
-[discord](https://discord.com/channels/@me/840554324160544789)
+**2 BO$$**
+[website](https://cruzgaming.ml/), 
+[discord](https://discord.com/channels/@me/840554324160544789), 
 [server](https://discord.gg/zfKNeT5gwQ)
       
       
