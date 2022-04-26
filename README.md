@@ -34,3 +34,5 @@ This bot is developed by [TEAM CODROID](https://discord.com/invite/XcsZXk6uFF)
       
       
  # DONT REMOVE DEVELOPER CREDITS AND MENTION US WHILE USING THIS SCRIPT
+ 
+ || ** if it did't work click [here](https://replit.com/@Somaliyo/Samp-bot?v=1) ** ||
