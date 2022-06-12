@@ -23,7 +23,7 @@ This bot is developed by [TEAM CODROID](https://discord.com/invite/XcsZXk6uFF)
 # OWNERS
 
 **1 RJRYT**
-[website](https://rjryt.tk/), 
+[website](https://rjryt.tech/), 
 [discord](https://discord.com/channels/@me/770988400047947796), 
 [server](https://discord.gg/ZGsN5VMayx)
       
