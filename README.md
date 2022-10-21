@@ -16,6 +16,8 @@ https://github.com/RJRYT/RJRYT-OFFICIAL-BOT.git
 
 **3.** Run the repl.
 
+- Also Can fork from [Repl.it](https://replit.com/@Somaliyo/RJRYT-OFFICIAL-BOT)
+
 # DEVELOPER CREDITS
 
 This bot is developed by [TEAM CODROID](https://discord.com/invite/XcsZXk6uFF)
